@@ -1,12 +1,15 @@
 
 #include <stdio.h>
 /**
- * Main -program entry point.
- * Return:0 success, non zero fail
+ * main -program entry point.
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-	int i, k = '0', j;
+	int i, k, j;
+
+	    k = '0',
 
 	for (i = '0'; i <= '9'; i++)
 	{
